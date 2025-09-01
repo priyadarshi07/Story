@@ -1,1 +1,2 @@
 code chapter2.txt - command to write in the file.
+It was age of AI
